@@ -10,3 +10,9 @@ With Power Query, I have cleaned the data, adjusted the data, and used Power BI 
 I utilized real-world data from [Our World in Data](https://ourworldindata.org/) for this project. Specifically, I worked with COVID-19 data to demonstrate my ability to analyze and manipulate data using SQL.
 This project showcases my proficiency with various SQL queries and techniques, highlighting my skills in data management and analysis.
 ![Project 2](Project%202%20-%20COVID-19%20Data%20Analysis%20with%20SQL/Project2Screenshot.png)
+
+
+## Project 3 - Webscraping Data with Jupyter & Python
+In this project I'll be webscraping data using Python, Jupyter Notebook, and BeautifulSoup and smtplib libraries.  
+I chose to webscrape Bol.com. The scraper extracts product title, price, and current date. It features automated email notifications, sending real-time alerts about price changes directly to the users' inbox. It also saves the dataset to a .csv file for potential use in the future.  
+![Project 3](Project%203%20-%20Webscraping%20Data%20with%20Jupyter%20&%20Python/webscrapescreenshot.png)
