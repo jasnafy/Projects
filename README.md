@@ -19,4 +19,4 @@ I chose to webscrape Bol.com. The scraper extracts product title, price, and cur
 
 ## Project 4 - Data Cleaning, Pivot Tables, Dashboard  
 In this project, I used Excel to analyze and clean data, as well as to create insightful Pivot Tables and Charts. The dataset, titled "Bike Sales", represents a company's sales data and aims to uncover customer buying trends. The analysis focused on factors such as age, gender, commute distance, car ownership, and income, providing valuable insights into the profile of bike buyers.  
-![Project 4](Project%204%20-%20Data%20Cleaning,%20Pivot%20Tables%20Dashboard/screenshotproject4.png)
+![Project 4](Project%204%20-%20Data%20Cleaning,%20Pivot%20Tables,%20Dashboard/screenshotproject4.png)
