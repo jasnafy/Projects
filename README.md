@@ -16,3 +16,7 @@ This project showcases my proficiency with various SQL queries and techniques, h
 In this project I'll be webscraping data using Python, Jupyter Notebook, and BeautifulSoup and smtplib libraries.  
 I chose to webscrape Bol.com. The scraper extracts product title, price, and current date. It features automated email notifications, sending real-time alerts about price changes directly to the users' inbox. It also saves the dataset to a .csv file for potential use in the future.  
 ![Project 3](Project%203%20-%20Webscraping%20Data%20with%20Jupyter%20&%20Python/webscrapescreenshot.png)
+
+## Project 4 - Data Cleaning, Pivot Tables, Dashboard  
+In this project, I used Excel to analyze and clean data, as well as to create insightful Pivot Tables and Charts. The dataset, titled "Bike Sales", represents a company's sales data and aims to uncover customer buying trends. The analysis focused on factors such as age, gender, commute distance, car ownership, and income, providing valuable insights into the profile of bike buyers.  
+![Project 4](Project%204%20-%20Data%20Cleaning,%20Pivot%20Tables%20Dashboard/screenshotproject4.png)
